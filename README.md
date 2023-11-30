@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anakin Dabir</h1>
 <h3 align="center">A front-end developer</h3>
-<h3 align="center">Create beautiful experiences 💥</h3>
-
-<div align="center">
-  <img src="https://e7.pngegg.com/pngimages/949/967/png-clipart-baby-boss-illustration-the-boss-baby-sticker-advertising-wall-decal-cryptocurrency-the-boss-baby-child-face.png"
-    alt="avatar" width="140" height="140" />
-</div>
 
 <br>
 <p align="center">
@@ -67,17 +61,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb" width="40" height="40" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-  </a>
 </p>
 
 <br>
 
 <p align="center"><img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsanchez15&theme=dark" alt="kelvinsanchez15" /></p>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anakin-dabir&theme=dark" alt="kelvinsanchez15" /></p>
