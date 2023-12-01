@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at <span><a href='https://www.protfoli-v2.vercel.app/' target="_blank">www.protfoli-v2.vercel.app</a></span>
+- 👨‍💻 Projects here : <span><a href='https://protfoli-v2.vercel.app/' target="_blank">www.protfoli-v2.vercel.app</a></span>
 </p>
 
   <br>
