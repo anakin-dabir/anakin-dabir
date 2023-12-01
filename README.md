@@ -18,7 +18,9 @@
 </p>
 <br>
 
+<p align="center">
 - 👨‍💻 All of my projects are available at [www.protfoli-v2.vercel.app](https://www.protfoli-v2.vercel.app/)
+</p>
 
   <br>
 
