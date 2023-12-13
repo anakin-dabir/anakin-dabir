@@ -3,10 +3,6 @@
 
 <br>
 <p align="center">
-  <a href="https://twitter.com/anakin_dabir" target="_blank">
-    <img alt="Twitter"
-      src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://github.com/anakin-dabir" target="_blank">
     <img alt="Github"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
