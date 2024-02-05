@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anakin Dabir</h1>
-<h3 align="center">A front-end developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A Pull Stack developer</h3>
 
 <br>
 <p align="center">
