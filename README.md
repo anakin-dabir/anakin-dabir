@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A Pull Stack developer</h3>
-
-<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/anakin-dabir/" target="_blank">
     <img alt="Linkedin"
